@@ -1,0 +1,15 @@
+=>Things to Know Before Installing WordPress Before you being the install,There are few things you have to do,
+(1)Access to your web server (via shell or FTP)
+(2)A text editor
+(3)An FTP Client
+(4)Your web browser of choice
+
+Download:
+=>Download and unzip the WordPress package from http://wordpress.org/download/.
+=>You should get backup Orginal your Wordpress site and latest database  backup
+=>You should keep in your mind Check new wordpress  compatibility with your old wordpress site plugins before  you  upgrade wordpress site list down plugins compatibility
+=>Upload latest wordpress zip folder using ftp/Cpanel
+=>Rename wp-admin and wp-include 
+=>upload new wp-admin and wp-include  
+
+ 
